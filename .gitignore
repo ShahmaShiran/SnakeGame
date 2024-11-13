@@ -1,0 +1,6 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore high score text file
+high_score.txt
